@@ -1,0 +1,29 @@
+   Oo    o.     O  .oOOOo.  o.OOoOoo  o
+  o  O   Oo     o .O     o   O       O
+ O    o  O O    O o          o       o
+oOooOoOo O  o   o O          ooOO    o
+o      O O   o  O O   .oOOo  O       O
+O      o o    O O o.      O  o       O
+o      O o     Oo  O.    oO  O       o     .
+O.     O O     `o   `OooO'  ooOooOoO OOoOooO
+
+
+o.oOOOo.  `OooOOo.  ooOoOOo o      O oOoOOoOOo  .oOOOo.  o.     O
+ o     o   o     `o    O     O    o      o     .O     o. Oo     o
+ O     O   O      O    o      o  O       o     O       o O O    O
+ oOooOO.   o     .O    O       oO        O     o       O O  o   o
+ o     `O  OOooOO'     o       Oo        o     O       o O   o  O
+ O      o  o    o      O      o  o       O     o       O o    O O
+ o     .O  O     O     O     O    O      O     `o     O' o     Oo
+ `OooOO'   O      o ooOOoOo O      o     o'     `OoooO'  O     `o
+
+
+.oOOOo.  o.OOoOoo `OooOOo.  o      'O o.OOoOoo `OooOOo.
+o     o   O        o     `o O       o  O        o     `o
+O.        o        O      O o       O  o        O      O
+ `OOoo.   ooOO     o     .O o       o  ooOO     o     .O
+      `O  O        OOooOO'  O      O'  O        OOooOO'
+       o  o        o    o   `o    o    o        o    o
+O.    .O  O        O     O   `o  O     O        O     O
+ `oooO'  ooOooOoO  O      o   `o'     ooOooOoO  O      o
+
