@@ -18,6 +18,7 @@
         <module>eureka-angel-client</module>
         <module>eureka-brixton-client</module>
         <module>eureka-brixton-tester</module>
+        <module>eureka-angel-tester</module>
     </modules>
 
     <properties>
