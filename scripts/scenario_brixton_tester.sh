@@ -42,7 +42,7 @@ wait_for_app_to_boot_on_port 9876
 check_app_presence_in_discovery TESTER
 
 send_test_request 9876
-echo "\n\nThe Brixton Eureka Client successfuly responded to the call"
+echo -e "\n\nThe Brixton Eureka Client successfully responded to the call"
 kill_app eureka-brixton-client
 
 java_jar eureka-angel-client
@@ -50,4 +50,4 @@ wait_for_app_to_boot_on_port 7777
 check_app_presence_in_discovery CLIENT
 
 send_test_request 9876
-echo "\n\nThe Angel Eureka Client successfuly responded to the call"
+echo -e "\n\nThe Angel Eureka Client successfully responded to the call"
